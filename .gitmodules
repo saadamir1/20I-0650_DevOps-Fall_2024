@@ -1,0 +1,3 @@
+[submodule "Game-Hub"]
+	path = Game-Hub
+	url = https://github.com/saadamir1/Game-Hub.git
