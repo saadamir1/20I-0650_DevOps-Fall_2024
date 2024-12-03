@@ -27,12 +27,6 @@ This blog describes how to automate the deployment of a React app using Docker, 
 ## Conclusion
 The process ensures smooth and automated scalable deployments of the app created with React using these tools, giving more time to coding and letting the automation take care of the deployment.
 
-## Tips:
-- Dockerize before going to Kubernetes
-- Local development with Minikube
-- Helm makes deploying in Kubernetes a lot simpler
-- GitHub Actions is well capable of CI/CD
-
 The blog provides a rather detailed, step-by-step guide with code snippets and screenshots, including practical tips on how to set up the deployment pipeline.
 
 For a detailed, step-by-step guide with code snippets, screenshots, and practical advice on setting up the deployment pipeline, check out my full blog on Medium: [How I Automated My React App Deployment with Docker, Kubernetes, and GitHub Actions](https://medium.com/@saadamir1/how-i-automated-my-react-app-deployment-with-docker-kubernetes-and-github-actions-2cd36f0f9a15).
